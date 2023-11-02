@@ -4,7 +4,7 @@
   Hi , I'm <a href="https://github.com/CoderAlita" target="_blank" rel="noopener noreferrer">Priyanka Gupta</a>.
 </h2>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20MERN%20Developer;&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20JAVA%20Developer;&center=true&width=500&height=50">
 </p>
 
 <h3 align="center">Passionate Full Stack Developer. Expert in Java, Spring, Spring-Boot, HTML, CSS, JS. Skilled in frontend and backend development, creating robust and scalable web applications. Committed to delivering exceptional user experiences through innovative solutions. Seeking new opportunities to contribute and enhance skills.</h3>
