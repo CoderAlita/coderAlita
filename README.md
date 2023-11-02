@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20JAVA%20Developer;&center=true&width=500&height=50">
 </p>
 
-<h3 align="center">Passionate Full Stack Developer. Expert in Java, Spring, Spring-Boot, HTML, CSS, JS. Skilled in frontend and backend development, creating robust and scalable web applications. Committed to delivering exceptional user experiences through innovative solutions. Seeking new opportunities to contribute and enhance skills.</h3>
+<h3 align="center">Passionate Full Stack JAVA Developer. Expert in Java, Spring, Spring-Boot, HTML, CSS, JS. Skilled in frontend and backend development, creating robust and scalable web applications. Committed to delivering exceptional user experiences through innovative solutions. Seeking new opportunities to contribute and enhance skills.</h3>
 
 <!-- new file -->
 
@@ -43,9 +43,9 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap;">
 
-<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=BabyGupta05&theme=neon&border_radius=2.7&show_icons=true" alt="Priyanka Gupta" />
+<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=coderAlita&theme=neon&border_radius=2.7&show_icons=true" alt="Priyanka Gupta" />
   
-<img width="425px" height="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BabyGupta05&theme=neon&border_radius=2.7&date_format=M%20j%5B%2C%20Y%5D" alt="Priyanka Gupta" />
+<img width="425px" height="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderAlita&theme=neon&border_radius=2.7&date_format=M%20j%5B%2C%20Y%5D" alt="Priyanka Gupta" />
   
 <img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderAlita&theme=neon&border_radius=2.7" alt="Priyanka Gupta" />
   
@@ -66,7 +66,7 @@
     </p>
     <h2>❤ Views and Followers :</h2>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/coderAlita/github-profile-views-counter">
-        <img src="https://komarev.com/ghpvc/?username=BabyGupta05" >
+        <img src="https://komarev.com/ghpvc/?username=coderAlita" >
     </a>
     <a href="https://github.com/coderAlita?tab=followers">
         <img src="https://img.shields.io/github/followers/coderAlita?label=Followers&style=social" alt="GitHub Badge">
